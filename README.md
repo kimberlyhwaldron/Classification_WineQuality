@@ -1,5 +1,5 @@
 ---
-# Classification Modeling <br> Wine Quality Data <br> Kimberly Healy  |  healy.kim@gmx.us 
+# Classification Modeling <br> Wine Quality Data <br> Kimberly Waldron  |  kimberly.h.waldron@gmail.com 
 
 ## Background
 The data ([WineQuality.csv](https://archive.ics.uci.edu/ml/datasets/wine+quality)) includes the results of physicochemical and sensory tests for different types of wine. The attributes from the physicochemical tests include: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, wine type. The attribute from the sensory test includes: quality, a score between 0 and 10.   
